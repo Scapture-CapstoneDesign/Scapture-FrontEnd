@@ -96,7 +96,7 @@ function Record() {
           <br /> 당신만의 운동 영상을 녹화해보세요!
         </Titlesubcontent>
         <AppBlock>
-          <RecordingBtn />
+          {/* <RecordingBtn /> */}
         </AppBlock>
       </ContentBlock>
       <ImgBlock>
